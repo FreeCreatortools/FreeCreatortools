@@ -1,60 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Main Pages -->
   <url>
     <loc>https://freecreatortools.github.io/</loc>
     <lastmod>2026-05-12</lastmod>
-    <changefreq>weekly</changefreq>
+    <changefreq>daily</changefreq>
     <priority>1.00</priority>
   </url>
-
   <url>
     <loc>https://freecreatortools.github.io/#tools</loc>
     <lastmod>2026-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.90</priority>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
   </url>
-
   <url>
-    <loc>https://freecreatortools.github.io/#features</loc>
+    <loc>https://freecreatortools.github.io/#creator-guides</loc>
     <lastmod>2026-05-12</lastmod>
-    <changefreq>monthly</changefreq>
+    <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
-
   <url>
     <loc>https://freecreatortools.github.io/#about</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.70</priority>
+    <priority>0.60</priority>
   </url>
-
   <url>
     <loc>https://freecreatortools.github.io/#contact</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.60</priority>
   </url>
-
   <url>
-    <loc>https://freecreatortools.github.io/#privacy</loc>
+    <loc>https://freecreatortools.github.io/#privacy-policy</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
-
   <url>
     <loc>https://freecreatortools.github.io/#terms</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
   </url>
-
   <url>
     <loc>https://freecreatortools.github.io/#disclaimer</loc>
     <lastmod>2026-05-12</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.50</priority>
+  </url>
+
+  <!-- YouTube Tools Keywords: Free Me YouTube Channel Monitize Kre, YouTube Views, YouTube Shorts Views, YouTube Audit -->
+  <url>
+    <loc>https://freecreatortools.github.io/#multi-youtube-live-viewer</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-shorts-views</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-video-views</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-thumbnail</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-description-tags-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-tags-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-description-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#youtube-audit</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.88</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#viral-title-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+
+  <!-- Downloader Tools Keywords: Facebook Video Downloader, Instagram Video Downloader, All Video Downloader -->
+  <url>
+    <loc>https://freecreatortools.github.io/#facebook-video-downloader</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.96</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#instagram-video-downloader</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.96</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#all-video-downloader</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.96</priority>
+  </url>
+
+  <!-- Social Growth Tools Keywords: Free Me Facebook Page Monitize Kre, Free Me Instagram Page Monitize Kre -->
+  <url>
+    <loc>https://freecreatortools.github.io/#instagram-boost</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.94</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#facebook-multi</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.94</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#instagram-caption-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#facebook-viral-post-writer</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#hashtag-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#social-media-bio-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+
+  <!-- Utility / Browser / Multi View Tools -->
+  <url>
+    <loc>https://freecreatortools.github.io/#multi-browser</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#multi-browser-2-o</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.86</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#multi-view</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.94</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#anything-qr-code</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#qr-code-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#password-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#multi-link-opener</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+
+  <!-- Image Tools -->
+  <url>
+    <loc>https://freecreatortools.github.io/#image-resize-tool</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#image-compressor</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.84</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#image-watermark-tool</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#photo-to-pdf-tool</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Text / Creator Tools -->
+  <url>
+    <loc>https://freecreatortools.github.io/#word-counter</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#case-converter</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.72</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#video-hook-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
+  </url>
+  <url>
+    <loc>https://freecreatortools.github.io/#content-ideas-generator</loc>
+    <lastmod>2026-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.82</priority>
   </url>
 
 </urlset>
